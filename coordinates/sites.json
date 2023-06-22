@@ -1414,8 +1414,7 @@
             "OCA",
             "Cerro Armazones Observatory"
         ]
-    }
-},
+    },
     "opd": {
         "source": "https://www.gov.br/lna/pt-br/composicao-1/coast/obs/opd/informacaoes/localizacao",
         "elevation": 1864,
