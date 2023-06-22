@@ -1415,4 +1415,20 @@
             "Cerro Armazones Observatory"
         ]
     }
+},
+    "opd": {
+        "source": "https://www.gov.br/lna/pt-br/composicao-1/coast/obs/opd/informacaoes/localizacao",
+        "elevation": 1864,
+        "name": "Observatorio do Pico dos Dias",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -22.53444,
+        "elevation_unit": "meter",
+        "longitude": -45.5825,
+        "timezone": "America/Sao_Paulo",
+        "aliases": [
+            "OPD",
+	    "Pico dos Dias Observatory"		
+        ]
+    }
 }
